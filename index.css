@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-main {
+    background-color:beige;
+    display:contents;
+    text-align: center;
+    justify-content: center;
+}
+
+.a-header {
+    display: flex;
+    justify-content: center;
+}
